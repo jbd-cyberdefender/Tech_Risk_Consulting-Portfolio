@@ -1,0 +1,153 @@
+"TimeCreated","Id","Message"
+"9/28/2026 4:51:45 PM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1104
+	Account Name:		a-jbassey
+	Account Domain:		JOSHDOMAIN
+	Logon ID:		0x86D09
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1806
+	Account Name:		CN=alowenthal,OU=_USERS,DC=joshdomain,DC=com
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-512
+	Group Name:		Domain Admins
+	Group Domain:		JOSHDOMAIN
+
+Additional Information:
+	Privileges:		-"
+"9/28/2026 4:51:45 PM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1104
+	Account Name:		a-jbassey
+	Account Domain:		JOSHDOMAIN
+	Logon ID:		0x86D09
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1630
+	Account Name:		CN=chydrick,OU=_USERS,DC=joshdomain,DC=com
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-512
+	Group Name:		Domain Admins
+	Group Domain:		JOSHDOMAIN
+
+Additional Information:
+	Privileges:		-"
+"8/19/2026 10:50:01 AM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-500
+	Account Name:		Administrator
+	Account Domain:		JOSHDOMAIN
+	Logon ID:		0xD0F0D
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1104
+	Account Name:		cn=Josh Bassey,ou=_ADMINS,DC=joshdomain,DC=com
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-512
+	Group Name:		Domain Admins
+	Group Domain:		JOSHDOMAIN
+
+Additional Information:
+	Privileges:		-"
+"8/19/2026 10:35:39 AM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-7
+	Account Name:		ANONYMOUS LOGON
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E6
+
+Member:
+	Security ID:		S-1-5-21-491959414-2249737814-4043813978-504
+	Account Name:		-
+
+Group:
+	Security ID:		S-1-5-21-491959414-2249737814-4043813978-513
+	Group Name:		None
+	Group Domain:		DC01
+
+Additional Information:
+	Privileges:		-"
+"8/19/2026 10:35:39 AM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-7
+	Account Name:		ANONYMOUS LOGON
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E6
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-500
+	Account Name:		CN=Administrator,CN=Users,DC=joshdomain,DC=com
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-520
+	Group Name:		Group Policy Creator Owners
+	Group Domain:		JOSHDOMAIN
+
+Additional Information:
+	Privileges:		-"
+"8/19/2026 10:35:39 AM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-7
+	Account Name:		ANONYMOUS LOGON
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E6
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-500
+	Account Name:		CN=Administrator,CN=Users,DC=joshdomain,DC=com
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-512
+	Group Name:		Domain Admins
+	Group Domain:		JOSHDOMAIN
+
+Additional Information:
+	Privileges:		-"
+"8/17/2026 5:09:00 PM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-H2R0VV2B0IL$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-1000
+	Account Name:		-
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-513
+	Group Name:		None
+	Group Domain:		WIN-H2R0VV2B0IL
+
+Additional Information:
+	Privileges:		-"
+"8/17/2026 8:06:46 PM","4728","A member was added to a security-enabled global group.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Member:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-504
+	Account Name:		-
+
+Group:
+	Security ID:		S-1-5-21-4274198434-1682180842-3099995878-513
+	Group Name:		None
+	Group Domain:		MINWINPC
+
+Additional Information:
+	Privileges:		-"
